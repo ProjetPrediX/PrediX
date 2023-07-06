@@ -2,7 +2,7 @@ xbase64
 datetime
 numpy 
 pandas 
-streamlit
+streamlit>=0.88.0
 streamlit.runtime.state 
 streamlit_disqus 
 streamlit_option_menu 
