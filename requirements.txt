@@ -2,8 +2,7 @@ xbase64
 datetime
 numpy 
 pandas 
-streamlit>=0.88.0
-streamlit.runtime.state 
+streamlit>=0.88.0 
 streamlit_disqus 
 streamlit_option_menu 
 matplotlib 
