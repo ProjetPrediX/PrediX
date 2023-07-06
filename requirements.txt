@@ -10,8 +10,7 @@ seaborn
 scikit-learn 
 xgboost 
 openpyxl 
-# DB Management
-sqlite3
+
 #test
 pytest
 locust
