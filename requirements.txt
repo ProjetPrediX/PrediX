@@ -1,4 +1,4 @@
-base64
+base58
 pickle
 datetime
 numpy 
@@ -10,11 +10,9 @@ streamlit_option_menu
 matplotlib 
 seaborn 
 scikit-learn 
-
 xgboost 
 openpyxl 
 pickle
-
 # DB Management
 sqlite3
 #test
