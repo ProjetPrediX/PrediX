@@ -1,0 +1,22 @@
+base64
+pickle
+datetime
+numpy 
+pandas 
+streamlit
+streamlit.runtime.state 
+streamlit_disqus 
+streamlit_option_menu 
+matplotlib 
+seaborn 
+scikit-learn 
+matplotlib.colors import ListedColormap
+xgboost 
+openpyxl 
+pickle
+
+# DB Management
+sqlite3
+#test
+pytest
+locust
