@@ -322,7 +322,7 @@ def main():
                             href = f'<a href="data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,{b64}" download="predictions.xlsx">Télécharger le fichier Excel</a>'
                             st.markdown (href, unsafe_allow_html=True)
                         else:
-                            st.warning ("Incorrect Username/Password")
+                            st.warning ("tu viens de changer le type d'achat")
 
     elif choice == "Signup":
         st.subheader ("create New Account")
